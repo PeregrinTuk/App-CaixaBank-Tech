@@ -1,3 +1,80 @@
+:root {
+  --neo-color: #4A35C5;
+  --neo-l-color: hsl(239, 56%, 62%);
+  --neo-bckg-color: #F2F6F9;
+  --box-bckg-color: white;
+  
+}
+.App {
+  width: 100vw;
+  height: 100vh;
+  padding:  6vw;
+
+  background-color: var(--neo-bckg-color);
+}
+
+.App-header {
+  padding: 2vw;
+  margin: 8px 0;
+}
+
+.App-logo {
+  height: 20px;
+  display: inline;
+
+  color: var(--neo-color);
+  font-size: 1.6rem;
+}
+
+.P-title, .P-body {
+  font-weight: 500;
+}
+
+.P-body {
+  font-size: small;
+
+  margin-bottom: 25px;
+}
+
+.box-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.Box {
+  width: 40vw;
+  height: 38vw;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 35px;
+  
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  background-color: var(--box-bckg-color);
+  box-shadow: 3px 15px 17px 1px rgba(50, 50, 71, 0.2);
+
+  text-align: center;
+}
+
+.Box h4, .Box p {
+  font-weight: 500;
+}
+
+.Box h4 {
+  color: rgb(161, 161, 161);
+  font-size: small;
+}
+
+.Box p {
+  color: var(--neo-l-color);
+  font-size: 3.25rem;
+}
+
+/* ----------------------------------------------------------------- BORRAR
 .App {
   text-align: center;
 }
@@ -36,3 +113,4 @@
     transform: rotate(360deg);
   }
 }
+*/
