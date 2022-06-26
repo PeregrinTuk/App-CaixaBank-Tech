@@ -44,8 +44,6 @@
 }
 
 .Box {
-  width: 40vw;
-  height: 38vw;
   padding: 15px;
   border-radius: 10px;
   margin-bottom: 35px;
@@ -58,6 +56,23 @@
   box-shadow: 3px 15px 17px 1px rgba(50, 50, 71, 0.2);
 
   text-align: center;
+}
+
+.box_size_S {
+  width: 40vw;
+  height: 38vw;
+}
+
+.box_size_L {
+  width: 100%;
+  height: 100vw;
+}
+
+.box_size_XL {
+  /*
+  width: 40vw;
+  height: 38vw;
+  */
 }
 
 .Box h4, .Box p {

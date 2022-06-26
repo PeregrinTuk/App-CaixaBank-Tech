@@ -1,0 +1,4 @@
+Apis y Mocks para los gráficos (no es obligatorio utilizar estas) 
+- https://polygon.io/
+- https://es.finance.yahoo.com/quote/%5EIBEX/history?p=%5EIBEX
+- http://www.columbia.edu/~tmd2142/best-6-stock-market-apis-for-2020.html
