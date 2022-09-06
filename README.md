@@ -9,7 +9,7 @@
 ***
 
 ## General Info
-Preliminary proposal for the multiplatform application of the hackathon in NUWE of CaixaBanc-Tech.
+Preliminary proposal for the cross-platform app of the hackathon in NUWE of CaixaBanc-Tech.
 
 ## Technologies
 - React
