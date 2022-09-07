@@ -1,15 +1,15 @@
 # App-CaixaBank-Tech
-<!--### [🚀 [Go to website]](https://peregrintuk.github.io/App-CaixaBank-Tech/)-->
+<!--### [🚀 [Go to the website]](https://peregrintuk.github.io/App-CaixaBank-Tech/)-->
 
 ***
-#### Table of Contens
+#### Table of Contents
 1. General Info
 2. Technologies
 3. Collaboration
 ***
 
 ## General Info
-Preliminary proposal for the cross-platform app of the hackathon in NUWE of CaixaBanc-Tech.
+Preliminary proposal for the cross-platform app for the hackathon on NUWE of CaixaBank-Tech.
 
 ## Technologies
 - React
@@ -17,4 +17,4 @@ Preliminary proposal for the cross-platform app of the hackathon in NUWE of Caix
 - CSS
 
 ## Collaboration
-If you want to collaborate with this project, you are free to make any suggestion by opening a Discussion, an Issue or a Pull request. ;D
+If you want to collaborate with this project, feel free to make any suggestion by opening a Discussion, an Issue or a Pull request. ;D
