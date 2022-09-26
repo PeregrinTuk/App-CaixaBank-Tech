@@ -11,6 +11,9 @@
 ## General Info
 Preliminary proposal for the cross-platform app for the hackathon on NUWE of CaixaBank-Tech.
 
+## Project status
+WIP [ Phase -> Mobile version ]
+
 ## Technologies
 - React
 - HTML
